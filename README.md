@@ -12,8 +12,6 @@ It includes:
 
 **Server IP:** HoodRootsSMP.minehut.gg
 
-This site is hosted for free via **GitHub Pages**.
-
 ---
 
 ## How to Use
@@ -28,5 +26,4 @@ This site is hosted for free via **GitHub Pages**.
 
 See the **LICENSE** file for more details.
 
-
-See the **LICENSE** file for more details.
+---
